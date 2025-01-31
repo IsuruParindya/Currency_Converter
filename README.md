@@ -22,5 +22,7 @@ A simple web-based currency converter that allows users to convert values betwee
 ## Example API Request
 ```javascript
 const response = await fetch(`https://v6.exchangerate-api.com/v6/589f59147a429e2ee416876d/latest/${fromCur.value}`);
+```
+&nbsp;
 ![Screenshot (617)](https://github.com/user-attachments/assets/9e6fd310-6218-40b8-9350-c8f48837f4c8)
 ![Screenshot (618)](https://github.com/user-attachments/assets/668f141d-b54d-4c05-acf9-a11dab1a7900)
